@@ -1,3 +1,3 @@
 Blog page link:
-(https://roopavarshitha.github.io/posts/nertelugu/)
+(https://roopavarshitha.github.io/posts/second-post/)
 
